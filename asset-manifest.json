@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cacong/static/css/main.65bbb5e1.css",
-    "main.js": "/cacong/static/js/main.05c45f55.js",
+    "main.css": "/cacong/static/css/main.fa4c9662.css",
+    "main.js": "/cacong/static/js/main.390395fe.js",
     "static/js/787.28cb0dcd.chunk.js": "/cacong/static/js/787.28cb0dcd.chunk.js",
     "static/media/Video1.mp4": "/cacong/static/media/Video1.5e9487ba0bbfc827a521.mp4",
     "static/media/video.mp4": "/cacong/static/media/video.68dd46e70e52a168de3e.mp4",
@@ -17,12 +17,12 @@
     "static/media/content1.jpg": "/cacong/static/media/content1.69cf447eddd2f2584bb0.jpg",
     "static/media/address.png": "/cacong/static/media/address.5fb34b44f8776bef53ba.png",
     "index.html": "/cacong/index.html",
-    "main.65bbb5e1.css.map": "/cacong/static/css/main.65bbb5e1.css.map",
-    "main.05c45f55.js.map": "/cacong/static/js/main.05c45f55.js.map",
+    "main.fa4c9662.css.map": "/cacong/static/css/main.fa4c9662.css.map",
+    "main.390395fe.js.map": "/cacong/static/js/main.390395fe.js.map",
     "787.28cb0dcd.chunk.js.map": "/cacong/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65bbb5e1.css",
-    "static/js/main.05c45f55.js"
+    "static/css/main.fa4c9662.css",
+    "static/js/main.390395fe.js"
   ]
 }
