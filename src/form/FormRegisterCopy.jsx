@@ -4,7 +4,6 @@ import ButtonRegister from "./ButtonRegister";
 export default function FormRegisterCopy() {
   const myProp = "GỬI THÔNG TIN";
   return (
-    <div className="lineForm1">
       <form className="formRegister1">
         <div className="form_header">
           <h2 className="Title1">
@@ -37,6 +36,5 @@ export default function FormRegisterCopy() {
           <ButtonRegister myProp={myProp} />
         </div>
       </form>
-    </div>
   );
 }
